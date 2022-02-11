@@ -1,6 +1,6 @@
 ## Welcome to my profile 👋
 - 👨I'm 20 y.o. 
-- 🇷🇺 I'm from Russia 🇷🇺
+- 🇷🇺 I'm from Russia
 - 🏛️I'm student of [Volgograd State Technical University](https://www.vstu.ru/eng/) 
 
 ## I write in: 
