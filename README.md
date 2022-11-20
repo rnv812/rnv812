@@ -1,9 +1,9 @@
 # Welcome to my profile
 ## 👨‍🎓 About me
 - My name is Nikita
-- I'm 20 y.o. 
-- I'm from Russia
-- I'm student of [Volgograd State Technical University](https://www.vstu.ru/eng/)
+- 21 y.o.
+- Live in Volgograd, Russia
+- Student of [VSTU](https://www.vstu.ru/eng/)
 
 ## 💻 My skills
 <img align="left" alt="Cpp" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"/>
@@ -18,8 +18,6 @@
 </br>
 
 ## 📧 Contacts
-* thermazote@gmail.com 
-* thermazote@mail.ru 
+* thermazote@mail.ru / thermazote@gmail.com 
 * [Telegram](https://t.me/thermazote)
-* [VK](https://vk.com/thermazote)
 
