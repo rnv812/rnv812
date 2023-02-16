@@ -10,7 +10,6 @@
 ![](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=ffffff)
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)
 ![](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=ffffff)
-![](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=ffffff)
 ![](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=ffffff)
 ![](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=000000)
 ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=ffffff)
