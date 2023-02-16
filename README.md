@@ -18,6 +18,5 @@
 </br>
 
 ## 📧 Contacts
-* thermazote@mail.ru / thermazote@gmail.com 
-* [Telegram](https://t.me/thermazote)
+* [Telegram](https://t.me/rnv812)
 
