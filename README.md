@@ -17,11 +17,11 @@
 ![](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)
 
 ## Stats
-<div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=rnv812&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rnv812&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea" />
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rnv812&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnv812&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea)
 
-## Contacts
-* [Telegram](https://t.me/rnv812)
-
+## Links
+[![](https://img.shields.io/badge/t.me%2Frnv812-26A5E4?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/rnv812)
+[![](https://img.shields.io/badge/twitch.tv%2Frnv812-9146FF?style=for-the-badge&logo=Twitch&logoColor=ffffff)](https://www.twitch.tv/rnv812)
+[![](https://img.shields.io/badge/rnv812%235018-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discordapp.com/users/576036549704024084)
+[![](https://img.shields.io/badge/nikita.reznikov.public@mail.ru-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff)](mailto:nikita.reznikov.public@mail.ru)
