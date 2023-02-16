@@ -4,8 +4,6 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=ffffff)
 ![](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=ffffff)
 ![](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=ffffff)
-![](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=ffffff)
-![](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=ffffff)
 ![](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=ffffff)
 ![](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=Qt&logoColor=ffffff)
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)
