@@ -19,7 +19,13 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnv812&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea)
 
 ## Links
+### Messengers
 [![](https://img.shields.io/badge/t.me%2Frnv812-26A5E4?style=for-the-badge&logo=Telegram&logoColor=ffffff)](https://t.me/rnv812)
-[![](https://img.shields.io/badge/twitch.tv%2Frnv812-9146FF?style=for-the-badge&logo=Twitch&logoColor=ffffff)](https://www.twitch.tv/rnv812)
 [![](https://img.shields.io/badge/rnv812%235018-5865F2?style=for-the-badge&logo=Discord&logoColor=ffffff)](https://discordapp.com/users/576036549704024084)
+
+### Streams
+[![](https://img.shields.io/badge/twitch.tv%2Frnv812-9146FF?style=for-the-badge&logo=Twitch&logoColor=ffffff)](https://www.twitch.tv/rnv812)
+[![](https://img.shields.io/twitch/status/rnv812?color=9146FF&label=status&logo=Twitch&logoColor=FFFFFF&style=for-the-badge)](https://www.twitch.tv/rnv812)
+
+### Mail
 [![](https://img.shields.io/badge/nikita.reznikov.public@mail.ru-005FF9?style=for-the-badge&logo=Mail.Ru&logoColor=ffffff)](mailto:nikita.reznikov.public@mail.ru)
