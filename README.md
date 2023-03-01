@@ -15,8 +15,8 @@
 ![](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=Visual%20Studio%20Code&logoColor=ffffff)
 
 ## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rnv812&layout=compact&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnv812&layout=compact&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rnv812&show_icons=true&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rnv812&theme=white&icon_color=2a84ea&hide_border=true&bg_color=00000000&text_color=2a84ea)
 
 ## Links
 ### Messengers
