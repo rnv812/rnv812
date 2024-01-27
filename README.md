@@ -12,6 +12,7 @@
 ![](https://img.shields.io/badge/ELK-005571?style=flat-square&logo=Elastic&logoColor=ffffff)
 ![](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=ffffff)
 ![](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat-square&logo=Apache%20Airflow&logoColor=ffffff)
+![](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=ffffff)
 
 ### Platforms
 ![](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=ffffff)
