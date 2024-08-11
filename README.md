@@ -31,7 +31,7 @@ I’m currently learning JavaScript and Svelte 🌱
 </p>
 
 <p align="left">
-  🐍 My main language is Python
+  🐍 My main programming language is Python
   <br>
   💻 I'm interested in developing data apps
 </p>
