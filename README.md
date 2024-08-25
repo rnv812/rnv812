@@ -25,7 +25,7 @@
 </p>
 
 <p align="right">
-I’m currently working on <a href="https://eventum-generatives.github.io/Website/">Eventum</a> project 🔭
+I’m currently working on <a href="https://eventum-project.github.io">Eventum</a> project 🔭
 <br>
 I’m currently learning JavaScript and Svelte 🌱
 </p>
