@@ -14,14 +14,14 @@
 </h5>
 <br>
 <p align="center">
-  Hi, I'm Nikita Reznikov, software developer and integration engineer from Russia
+  Hi, I'm Nikita Reznikov, software developer and data engineer from Russia
   <br>
   <br>
 </p>
 <p align="left">
   🎓 I graduated from Volgograd State Technical University
   <br>
-  💼 I work at VolgaBlob as integration engineer
+  💼 I work at VolgaBlob as data engineer
 </p>
 
 <p align="right">
@@ -33,7 +33,7 @@ I’m currently learning JavaScript and React 🌱
 <p align="left">
   🐍 My main programming language is Python
   <br>
-  💻 I'm interested in developing data apps
+  💻 I'm interested in developing data-oriented apps
 </p>
 
 <br>
