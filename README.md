@@ -27,7 +27,7 @@
 <p align="right">
 I’m currently working on <a href="https://github.com/eventum-project">Eventum</a> project 🔭
 <br>
-I’m currently learning JavaScript and Svelte 🌱
+I’m currently learning JavaScript and React 🌱
 </p>
 
 <p align="left">
